@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=79AC78&height=160&text=💡%20Ye%20Jin's%20Github️&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=79AC78&height=130&text=💡%20Ye%20Jin's%20Github️&fontSize=40&fontColor=FFFFFF)
 
 <br>
   
-## 💻 Log
+### 💻 Log
 <a href="https://velog.io/@pockyjx_">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=White"/>
 </a> 
