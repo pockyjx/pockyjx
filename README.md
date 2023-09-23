@@ -12,18 +12,29 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=White"/>
 
+<br>
   
 ### 💻 Log 
 <br>
 <a href="https://velog.io/@pockyjx_">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=White"/>
-</a> 
-  
+</a>
+
 <a href="https://www.notion.so/6efc351eb13946e2834ef17695b28a03">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=White"/>
 </a> 
 
-<br><br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pockyjx_&color=light)](https://velog.io/@pockyjx_)
+
+<br>
+
+### 📩 Contact
+<a href="mailto:pockyjx@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pockyjx@gmail.com"/>
+</a>
+
+
+<br>
  
   <img src="https://github-readme-stats.vercel.app/api?username=pockyjx&show_icons=true">
 
