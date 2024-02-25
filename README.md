@@ -41,8 +41,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <br>
-
-<img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 
 <br>
@@ -63,19 +61,6 @@
 <a href="https://velog.io/@pockyjx_">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
-
----
-
-### 📩 Contact
-<br>
-<a href="mailto:pockyjx@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=pockyjx@gmail.com"/>
-</a>
-
-<a href="https://instagram.com/pockyjx_">
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-
 
 
 
