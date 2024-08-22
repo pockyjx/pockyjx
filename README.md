@@ -6,24 +6,26 @@
 ### 🛠️ Skills
 </br>
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge&logo=JSP&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=JPA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache kafka&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=JSP&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-000000?style=flat-squaree&logo=JPA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache kafka&logoColor=white"/><br>
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=Spring Batch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo=Spring Cloud&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=flat-square&logo=Spring Batch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat-square&logo=Spring Cloud&logoColor=white"/> <br>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS Route 53-8C4FFF?style=for-the-badge&logo=amazon route 53&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS ELB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=github actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazon ec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS Route 53-8C4FFF?style=flat-square&logo=amazon route 53&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS ELB-8C4FFF?style=flat-square&logo=awselasticloadbalancing&logoColor=white"/>
 
 
 
@@ -47,8 +49,7 @@
 ### 💻 Contact
 <br>
 
-<a href="mailto:pockyjx@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
+<a href="mailto:pockyjx@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@pockyjx_"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 </div>
