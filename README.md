@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=JSP&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-000000?style=flat-squaree&logo=JPA&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=JPA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache kafka&logoColor=white"/><br>
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
